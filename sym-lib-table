@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "KICAD_ESP32")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/espressif_esp32-s3-wroom-1.kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_USB")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/tp4056_koreanhropartselectype-c-31-m-12.kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_eink_Connector")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/connector2_fpcconn.kicad_sym")(options "")(descr ""))
+)
