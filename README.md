@@ -4,6 +4,7 @@ Redesign of Armachat hardware using KICAD and JLCPCB
 <hr />
 
 The orginal Armachat from Peter Misenko's work at [bobricius/Armachat-circuitpython](https://github.com/bobricius/Armachat-circuitpython).
+This is a ESP32 with working EInk display project, which may be a useful reference https://github.com/Uspizig/EinkKeyboard
 
 This is a redesign of bobricius/Armachat hardware to include:
 
