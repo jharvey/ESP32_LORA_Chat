@@ -1,7 +1,7 @@
 (version 1)
 (rule "class 0:0"
   (condition "A.NetClass == 'default' && B.NetClass == 'Default'")
-  (constraint clearance (min 0.2032mm)))
+  (constraint clearance (min 0.20mm)))
 
 (rule "class 1:1"
   (condition "A.NetClass == 'gnd' && B.NetClass == 'gnd'")
