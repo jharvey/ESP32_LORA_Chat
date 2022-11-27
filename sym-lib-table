@@ -1,5 +1,12 @@
 (sym_lib_table
   (lib (name "KICAD_ESP32")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/espressif_esp32-s3-wroom-1.kicad_sym")(options "")(descr ""))
-  (lib (name "KICAD_USB")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/tp4056_koreanhropartselectype-c-31-m-12.kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_USB")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/USB_CONN_type-c-31-m-12.kicad_sym")(options "")(descr ""))
   (lib (name "KICAD_eink_Connector")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/connector2_fpcconn.kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_rfm69hcw")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/rfm69hcw.kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_qmc5883l")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/qmc5883l.kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_ta1661a")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/ta1661a.kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_bgu8019")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/bgu8019 .kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_tp4056")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/tp4056.kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_dw01")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/dw01.kicad_sym")(options "")(descr ""))
+  (lib (name "KICAD_fs8205a")(type "KiCad")(uri "${KIPRJMOD}/Kicad_files/symbols/fs8205a.kicad_sym")(options "")(descr ""))
 )
