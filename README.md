@@ -11,9 +11,10 @@ This is a redesign of bobricius/Armachat hardware to include: </br>
 - 18650 battery </br>
 - KICAD </br>
  </br>
-<img src="export/R0.1/iso_top.PNG" alt="ESP32 LORA Chat" width="600" />
-<img src="export/R0.1/iso_bottom.PNG" alt="ESP32 LORA Chat" width="600" />
-<img src="export/R0.1/iso_PCB.PNG" alt="ESP32 LORA Chat" width="600" />
+ 
+ front | back | PCB
+--- | --- | ---
+<img src="export/R0.1/iso_top.PNG" alt="ESP32 LORA Chat" width="300" /> | <img src="export/R0.1/iso_bottom.PNG" alt="ESP32 LORA Chat" width="220" /> | <img src="export/R0.1/iso_PCB.PNG" alt="ESP32 LORA Chat" width="300" />
  </br>
 3D model for enclosure found here </br>
 https://cad.onshape.com/documents/2eca9b71ceb843e60ebed659/w/deaed59ddef0917efb45d1fe/e/0c98206fb1ddff68e078d781
