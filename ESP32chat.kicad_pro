@@ -424,7 +424,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "export/R0.1/ESP32chat.step",
+      "step": "export/R0.1/ESP32chat_KICAD_Exported.step",
       "vrml": ""
     },
     "page_layout_descr_file": "Kicad_files/Border.kicad_wks"

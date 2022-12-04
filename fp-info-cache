@@ -1,4 +1,4 @@
-20404975151228045
+20423348896413517
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56616,12 +56616,68 @@ KH-GPS181804-WY
 1
 1
 KICAD_Footprints
+MSOP-8_3x3mm_P0.65mm_Modified_for_JLCPCB
+MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+8
+8
+KICAD_Footprints
 RFM69HCW
 
 
 0
 32
 16
+KICAD_Footprints
+SMA_Molex_73251-2200_Horizontal_Modified_for_JLCPCB
+https://www.molex.com/webdocs/datasheets/pdf/en-us/0732512200_RF_COAX_CONNECTORS.pdf
+SMA THT Female Jack Horizontal
+0
+5
+2
+KICAD_Footprints
+SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_Therm_Modified_for_JLCPCB
+SOIC, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf#page=29), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+20
+9
+KICAD_Footprints
+SOT-23-5_Modified_for_JLCPCB
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+KICAD_Footprints
+SOT-23-5_Modified_for_JLCPCB-5
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+KICAD_Footprints
+SOT-23-6_Modified_for_JLCPCB
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+KICAD_Footprints
+SOT-23_Modified_for_JLCPCB
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+KICAD_Footprints
+SOT-323_SC-70_Modified_for_JLCPCB
+SOT-323, SC-70
+SOT-323 SC-70
+0
+3
+3
 KICAD_Footprints
 TA1661A
 5-pin SAW filter package - TA1661A
@@ -56644,6 +56700,20 @@ tactile switch
 4
 2
 KICAD_Footprints
+TSSOP-8_4.4x3mm_P0.65mm_Modified_for_JLCPCB
+TSSOP, 8 Pin (JEDEC MO-153 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+8
+8
+KICAD_Footprints
+TSSOP-24_4.4x7.8mm_P0.65mm_Modified_for_JLCPCB
+TSSOP, 24 Pin (JEDEC MO-153 Var AD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+24
+24
+KICAD_Footprints
 TST_x01_P2.54mm_Vertical
 Through hole straight pin header, 1x01, 2.54mm pitch, single row
 Through hole pin header THT 1x01 2.54mm single row
@@ -56664,6 +56734,13 @@ GPS LNA
 0
 6
 6
+KICAD_Footprints
+microSD_HC_Molex_104031-0811_Modified_for_JLCPCB
+1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
+microSD SD molex
+0
+14
+11
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
