@@ -53,7 +53,7 @@ Comment,Designator,Footprint,LCSC
 "QMC5883L","U22","Package_LGA:LGA-16_3x3mm_P0.5mm","C976032"
 "FPCConn","U23","KICAD_Footprints:TE_2-1734839-4_1x24-1MP_P0.5mm_Horizontal_2","C11092"
 "CP2102N-Axx-xQFN28","U24","Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm","C964632"
-"ESP32","U3","KICAD_Footprints:ESP32-S3-WROOM-1","C2913199"
+"ESP32","U3","KICAD_Footprints:ESP32-S3-WROOM-1","C2913204"
 "FS8205A","U4","KICAD_Footprints:TSSOP-8_4.4x3mm_P0.65mm_Modified_for_JLCPCB","C16052"
 "DW01","U5","KICAD_Footprints:SOT-23-6_Modified_for_JLCPCB","C351410"
 "RT9013","U6","KICAD_Footprints:SOT-23-5_Modified_for_JLCPCB","C47773"
